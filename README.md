@@ -95,5 +95,4 @@ The choice of k=4 was assumed; elbow plot and dendrogram descriptions could conf
 Limited to four features; additional variables (e.g., income, education) could enhance clustering.
 Mismatched states (Arkansas, Kentucky) warrant further investigation.
 
-Contact
-For questions, contact [Your Name] at [Your Email].
+
