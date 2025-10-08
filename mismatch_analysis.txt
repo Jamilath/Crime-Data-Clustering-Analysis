@@ -1,0 +1,33 @@
+Mismatch Analysis: Arkansas and Kentucky
+======================================
+
+Feature Values for Mismatched States:
+          Murder  Assault  UrbanPop  Rape
+Arkansas     8.8      190        50  19.5
+Kentucky     9.7      109        52  16.3
+
+K-means Cluster Assignments:
+          Cluster
+Arkansas        1
+Kentucky        0
+
+Hierarchical Cluster Assignments:
+          Cluster
+Arkansas        0
+Kentucky        0
+
+K-means Cluster Means:
+            Murder     Assault   UrbanPop       Rape
+Cluster                                             
+0         3.600000   78.538462  52.076923  12.176923
+1        13.937500  243.625000  53.750000  21.412500
+2        10.966667  264.000000  76.500000  33.608333
+3         5.852941  141.176471  73.647059  19.335294
+
+Hierarchical Cluster Means:
+            Murder     Assault   UrbanPop       Rape
+Cluster                                             
+0         6.210526  142.052632  71.263158  19.184211
+1        10.966667  264.000000  76.500000  33.608333
+2         3.091667   76.000000  52.083333  11.833333
+3        14.671429  251.285714  54.285714  21.685714
